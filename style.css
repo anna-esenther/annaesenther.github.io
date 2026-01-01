@@ -71,10 +71,9 @@ main {
 }
 
 .profile-photo {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
     border: 3px solid #A51C30;
 }
 
@@ -224,8 +223,7 @@ footer {
     }
 
     .profile-photo {
-        width: 150px;
-        height: 150px;
+        max-width: 250px;
     }
 
     h1 {
