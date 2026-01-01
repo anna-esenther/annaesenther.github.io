@@ -8,8 +8,6 @@ title: Home
 
   <div class="profile-info">
     <h1>Anna Esenther</h1>
-    <p class="title">Economics PhD Student</p>
-    <p class="affiliation">Harvard University</p>
   </div>
 </div>
 
