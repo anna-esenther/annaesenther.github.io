@@ -13,11 +13,10 @@ title: Home
 
 ## About Me
 
-I am a third-year PhD student in Economics at Harvard University.
+I am a third-year PhD student in economics at Harvard University.
 
 ## Research Interests
-
-Women's Health, Education; Labor, Public
+Labor, Public; Women's Health, Education
 ## Contact
 
 **Email:** [annaesenther@g.harvard.edu](mailto:annaesenther@g.harvard.edu)
