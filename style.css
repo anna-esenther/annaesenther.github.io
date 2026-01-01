@@ -1,0 +1,238 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+}
+
+/* Navigation */
+nav {
+    background-color: #fff;
+    border-top: 5px solid #A51C30;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 1rem 0;
+}
+
+.nav-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #A51C30;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+    color: #A51C30;
+}
+
+/* Main content */
+main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 20px;
+}
+
+/* Profile section */
+.profile-section {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #f5f5f5;
+}
+
+.profile-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #A51C30;
+}
+
+.profile-info h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.affiliation {
+    font-size: 1.1rem;
+    color: #A51C30;
+}
+
+/* Sections */
+section {
+    margin-bottom: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #f5f5f5;
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #A51C30;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+/* Links */
+a {
+    color: #A51C30;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* CV entries */
+.cv-entry {
+    margin-bottom: 1.5rem;
+}
+
+.cv-title {
+    font-size: 1.05rem;
+    margin-bottom: 0.25rem;
+}
+
+.cv-detail {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.cv-entry ul {
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.cv-entry li {
+    margin-bottom: 0.25rem;
+}
+
+/* Teaching entries */
+.teaching-entry {
+    margin-bottom: 1.5rem;
+}
+
+.course-title {
+    font-size: 1.05rem;
+    margin-bottom: 0.25rem;
+}
+
+.course-detail {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.teaching-entry ul {
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.teaching-entry li {
+    margin-bottom: 0.25rem;
+}
+
+/* Download section */
+.download-section {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid #f5f5f5;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #A51C30;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #8B1729;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    background-color: #f5f5f5;
+    border-top: 1px solid #e8e8e8;
+    padding: 2rem 0;
+    margin-top: 4rem;
+    text-align: center;
+    color: #666;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav-links {
+        gap: 1rem;
+    }
+
+    .profile-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .profile-photo {
+        width: 150px;
+        height: 150px;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+}
