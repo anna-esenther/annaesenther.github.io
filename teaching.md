@@ -23,7 +23,7 @@ permalink: /teaching/
 - Advanced, math-focused undergrad econometrics course
 
 **EC 1005: Introduction to Economic Growth**
-*[Semester, Year]*
+*Spring 2026*
 - Instructor: Ben Friedman
 
 
