@@ -8,41 +8,25 @@ permalink: /teaching/
 
 ## Harvard University
 
+### Instructor
+
+**EC 970: Women's Health Economics**
+*Fall 2025*
+- Responsibilities: Designed syllabus, taught class
+- Student Expectations: Reading papers, writing assignments, final 15+ page research paper on a topic in women's health economics
+
 ### Teaching Fellow
 
-**[Course Code]: [Course Name]**
+**EC 1126: Quantitative Methods in Economics**
+*Spring 2026*
+- Instructor: Davide Viviano
+- Advanced, math-focused undergrad econometrics course
+
+**EC 1005: Introduction to Economic Growth**
 *[Semester, Year]*
-- Instructor: [Professor Name]
-- Responsibilities: [Section leading, office hours, grading, etc.]
-- Evaluations: [If you want to include teaching evaluation scores]
+- Instructor: Ben Friedman
 
-**[Course Code]: [Course Name]**
-*[Semester, Year]*
-- Instructor: [Professor Name]
-- Responsibilities: [Section leading, office hours, grading, etc.]
 
-### Guest Lectures
-
-*List any guest lectures you've given*
-
----
-
-## Teaching Interests
-
-I am interested in teaching courses in:
-- *List your teaching interests/fields*
-
----
-
-## Teaching Materials
-
-*You can add links to syllabi, lecture notes, or other teaching materials here*
-
----
-
-## Teaching Philosophy
-
-*Optional: Add a brief statement about your teaching philosophy and approach*
 
 ---
 
