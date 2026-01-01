@@ -19,15 +19,10 @@ I am a third-year PhD student in Economics at Harvard University.
 
 ## Research Interests
 
-*Please update this section with your specific research areas*
-
+Women's Health, Education; Labor, Public
 ## Contact
 
-**Email:** [your.email@harvard.edu](mailto:your.email@harvard.edu)
-**Office:** *Your office location*
-**Department of Economics**
-Harvard University
-Cambridge, MA 02138
+**Email:** [annaesenther@g.harvard.edu](mailto:annaesenther@g.harvard.edu)
 
 ---
 
